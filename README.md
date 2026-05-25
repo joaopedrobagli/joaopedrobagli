@@ -42,15 +42,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
 ---
 
 <h2 align="left">🌟 Habilidades</h2>
 
-- Desenvolvimento Frontend: HTML5, CSS3, JavaScript, React, Vue.js, Next.js  
-- Desenvolvimento Backend: PHP, Node.js, Laravel  
-- Banco de Dados: MySQL  
-- CMS: WordPress  
-- Versionamento: Git / GitHub  
+- Desenvolvimento Frontend: HTML5, CSS3, JavaScript, TypeScript, React, Vue.js, Next.js, Tailwind CSS
+- Desenvolvimento Backend: PHP, Node.js, NestJS, Java, Laravel
+- Banco de Dados: MySQL, PostgreSQL, MongoDB, Redis, Oracle
+- DevOps: Docker, CI/CD
+- CMS / E-commerce: WordPress, WooCommerce, Elementor, plugins PHP customizados
+- Prototipagem: Figma
+- Versionamento: Git / GitHub
+- Ferramentas: Postman, Jira, Trello
+- Metodologias: Scrum, Kanban
 
